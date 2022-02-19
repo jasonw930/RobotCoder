@@ -1,0 +1,33 @@
+0. staircase
+
+1. forward
+
+2. clockwise
+
+3. counterclockwise and clockwise
+
+4. small grid, 13 moves
+
+5. find shortest path, 15 moves
+
+6. One single command loop
+
+7. One multi command loop
+
+8. Single command, multi command, single command
+
+9. Copy command, spiral
+
+10. Copy command, zig zag
+
+11. Key introduction
+
+12. Two paths one has key
+
+13. Two keys on different corners
+
+14. Plus sign
+
+15. Line with spikes and keys
+
+16. Line with hooks and keys

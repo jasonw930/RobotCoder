@@ -1,0 +1,13 @@
+5 10
+
+. . w w w w w w w .
+w w w f w f w f w w
+w f f f f f f f f w
+w w f w f w f w w w
+. w w w w w w w . .
+
+. . . . . . . . . .
+. . . k . k . k . .
+. p . . . . . . e .
+. . k . k . k . . .
+. . . . . . . . . .

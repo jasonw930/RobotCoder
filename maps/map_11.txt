@@ -1,0 +1,11 @@
+4 7
+
+. . w w w . .
+w w w f w w w
+w f f f f f w
+w w w w w w w
+
+. . . . . . .
+. . . k . . .
+. p . . . e .
+. . . . . . .

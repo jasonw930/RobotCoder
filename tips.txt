@@ -1,0 +1,35 @@
+17
+
+Welcome to the tips menu! You will unlock more tips as you complete levels. The goal of every level is to reach and descend the stairs. You will need a start command and a stairs command in this level. Right click the start command once it's in the grid and connect it to the stairs command by setting the "next direction. Press run once the program is done.
+
+Let's actually move the robot shall we? The move command moves the robot in the direction it's facing by one tile. Use it to move the robot before running the stair command.
+
+This time the goal isn't a straight line! Use the clockwise command to rotate the robot clockwise and change the direction it's facing.
+
+Clockwise isn't the only way you can rotate?! Use it the clockwise command with the counterclockwise command to navigate the robot to the stairs.
+
+This time you barely have enough programming space to complete the level! Make sure you connect commands in the right order otherwise you won't be able to pass.
+
+The map is no longer a straight forward path! Try finding the right path the robot should take with the limited amount of programming space.
+
+Don't you hate spamming move commands? Introducing loops! Set the loop to any positive number you want, and every time the command is run the program will go in the loop direction and the number will decrease by 1. Once it reaches 0 the program will go in the next direction instead. Try making the shortest loop possible.
+
+This time one-command long loops won't work! You will need to connect multiple commands after the loop and connect it back to the loop command.
+
+Use multiple loops to beat this level!
+
+You can now reset the loop counter in the loop command with the copy command! The copy command will take the first number in the source direction and copy it to the first number in the destination direction. Use it to beat this level.
+
+Similar to last time but instead of spirals we have zig-zags! You might also find the connect command helpful, if you just wanted to connect different parts of the program without the commands actually doing anything.
+
+Introducing keys! You now have to collect the key in the level before you can take the stairs and complete the level. Simply travel to a tile containing a key and use the key command.
+
+Now the path isn't as straight forward! Find the shortest path to the exit while also collecting all the keys.
+
+2 keys! You have to collect every key in a level before you can complete. Try finding a way to collect all keys with the limited programming space you have.
+
+3 keys! Try your best and find a way to collect all the keys in the limited programming space.
+
+6 keys! This is starting to get out of hand. Same deal as before, good luck.
+
+Final level! Just try your best.
